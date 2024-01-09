@@ -256,3 +256,80 @@ footer {
   margin: 0 auto;
   margin-bottom: 10px;
 }
+
+/* 60 marks page */
+.commingsoon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1320px;
+  height: 616px;
+  margin: 0 auto;
+}
+.offerimg {
+  margin: 220px 50px 0 10px;
+}
+.offerimg img {
+  width: 364.844px;
+  height: 364.844px;
+  border-radius: 200px;
+  border: 15px solid #f00;
+}
+.offer3 {
+  margin: 60px 0 0 50px;
+}
+.offer3 img {
+  width: 140px;
+  height: 140px;
+  flex-shrink: 0;
+}
+.offer3 h2 {
+  color: #f00;
+  font-size: 48px;
+  margin-top: 100px;
+}
+.offer3 p {
+  width: 150px;
+}
+.bestoffer h3 {
+  color: #f00;
+  font-size: 24px;
+  margin-top: 0;
+}
+.bestoffer h1 {
+  color: #070211;
+  font-size: 48px;
+  margin-top: 0;
+}
+.bestoffer p {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-weight: 400;
+  width: 300px;
+}
+
+/* holydays */
+.holydays {
+  width: 1320px;
+  /* height: 616px; */
+  margin: 0 auto;
+}
+.holidayimg {
+  display: flex;
+}
+.holidayimg img {
+  width: 616px;
+}
+.red img {
+  width: 1320px;
+  height: 229px;
+}
+#group75 {
+  background-color: #e71414;
+  margin-bottom: -320px;
+}
+#Rectangle1 {
+  width: 429px;
+  height: 433px;
+  flex-shrink: 0;
+}
