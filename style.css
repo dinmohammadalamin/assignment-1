@@ -1,0 +1,258 @@
+.banner {
+  background-image: url(img/Banner\ Image.png),
+    linear-gradient(rgba(21, 20, 20, 0.729), rgba(22, 22, 11, 0.409));
+  border-radius: 15px;
+  width: 1320px;
+  height: 600px;
+  margin: 0 auto;
+}
+.new_year {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  padding-top: 150px;
+}
+.party {
+  color: #ffffff;
+  text-align: center;
+  font-size: 70px;
+}
+.offer {
+  align-items: center;
+  image-orientation: center;
+}
+.offer_details {
+  text-align: center;
+}
+.off {
+  font-size: 88px;
+  color: red;
+}
+.deals {
+  color: #f00;
+  font-size: 24px;
+}
+.all_catagories {
+  color: #070211;
+  font-size: 48px;
+}
+.offer_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  margin-bottom: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  width: 750px;
+  height: 500px;
+  margin-bottom: 200px;
+}
+
+.midnight {
+  background-image: url(img/Vectorrr.png);
+  width: 1320px;
+  height: 600px;
+  margin: 0 auto;
+  display: flex;
+}
+.midnight_img {
+  display: flex;
+  width: 300px;
+  height: 350px;
+  margin-top: 50px;
+  margin-left: 80px;
+}
+.midnightparty h2 {
+  color: #95e20f;
+  font-size: 64px;
+  margin-left: 120px;
+  margin-top: 120px;
+}
+.midnightparty h5 {
+  color: #fff;
+  font-size: 18px;
+  margin-left: 120px;
+}
+.midnightparty button {
+  color: #131313;
+  font-size: 20px;
+  margin: 0 30%;
+}
+.sedule {
+  width: 1320px;
+  height: 482px;
+  background-image: linear-gradient(rgb(237, 234, 198), rgb(250, 250, 248));
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 15px;
+  font-size: 25px;
+  margin-top: 50px;
+}
+.sedule1 {
+  padding-top: 100px;
+}
+.sedule1 span {
+  color: #f00;
+}
+.sedule button {
+  margin-top: 40px;
+  background-color: #f00;
+  padding: 14px;
+  font-size: 20px;
+  color: #fff;
+  border-radius: 10px;
+}
+.product {
+  width: 1320px;
+  height: 100%;
+
+  font-size: 24px;
+  margin: 0 auto;
+}
+.writesec {
+  margin-left: 140px;
+}
+.writesec h4 {
+  color: #f00;
+}
+.writesec h5 {
+  width: 896px;
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+}
+.product1 {
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.size {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+/* .size::before {
+  color: #95e20f;
+  transform: translate(1s);
+}
+.size::after {
+  cursor: pointer;
+  color: #f00;
+  transform: translate(1s);
+} */
+.product1 img {
+  height: auto;
+  width: auto;
+}
+
+.subscriber {
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  width: 1320px;
+  height: 616px;
+  margin: 0 auto;
+  text-align: center;
+}
+.subscriber img {
+  width: 150px;
+  height: 150px;
+  padding-top: 80px;
+  margin-bottom: 0;
+}
+.subscriber h1 {
+  font-size: 48px;
+}
+.subscriber h4 {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  text-align: center;
+}
+.gmail {
+  display: flex;
+  width: 648px;
+  height: 72px;
+  border-radius: 50px;
+  background: #e71414;
+  margin: 0 auto;
+}
+input {
+  width: 450px;
+  height: 68px;
+  border-radius: 50px 0 0 50px;
+  font-size: 30px;
+  padding-left: 40px;
+  background-color: aliceblue;
+}
+.gmail button {
+  background-color: #e71414;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  border-radius: 0 50px 50px 0;
+  margin-left: -1.5px;
+}
+footer {
+  background-color: #070211;
+  padding: 40px 40px 50px 40px;
+}
+.phn img {
+  width: 24px;
+  height: 24px;
+}
+.address {
+  display: flex;
+  justify-content: space-between;
+}
+.building {
+  color: #fff;
+}
+.building h4 {
+  font-size: 28px;
+}
+.phn {
+  color: #fff;
+}
+.phn img {
+  margin-bottom: 0;
+  margin-top: 35px;
+}
+.phn h4 {
+  margin-bottom: 0 auto;
+  font-size: 24px;
+}
+.call {
+  display: flex;
+  margin-bottom: 0;
+}
+.web {
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.logo {
+  text-align: center;
+}
+.logo1 {
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+}
+.copyright {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  font-size: 36px;
+}
+.line {
+  width: 1320px;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.15);
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
